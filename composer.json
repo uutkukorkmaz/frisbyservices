@@ -1,0 +1,16 @@
+{
+    "name": "uutkukorkmaz/frisbyservices",
+    "description": "service packages for frisby framework",
+    "authors": [
+        {
+            "name": "uutkukorkmaz",
+            "email": "uutkukorkmaz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Frisby\\Service\\": "./src"
+        }
+    },
+    "require": {}
+}
